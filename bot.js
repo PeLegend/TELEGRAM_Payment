@@ -12,7 +12,7 @@ bot.on('message', async (msg) => {
     }
     if (messageText === '/payment') {
     const title = 'title'
-    const description = 'ololo'
+    const description = 'description'
     const payload = 128
     const provider_token = 'PAYMENT PROVIDER'
     const currency = 'USD'
